@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "leaflet": {},
+    "less-bootstrap-3": {},
+    "iron-router": {}
+  }
+}
